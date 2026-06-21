@@ -1,3 +1,4 @@
 Hello from my machine
 i am trying stash
 this is rebase
+i am trying git diff
