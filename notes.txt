@@ -1,1 +1,3 @@
 Hello from my machine
+i am trying stash
+this is rebase
